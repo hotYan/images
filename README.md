@@ -1,2 +1,2 @@
-# images
-在线图片
+# online resources
+在线资源
